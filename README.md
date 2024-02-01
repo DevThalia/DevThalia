@@ -24,7 +24,7 @@
 
 ### Social media 🤘
 <div>
-  <img href="https://www.instagram.com/thaliaa_braavo?igsh=MXBpMXJ0dmh4bjhibw==" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width=50px>
+  <img href="https://www.instagram.com/thaliaa_braavo/" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width=50px>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="GitHub" width=50px>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Gmail" width=50px>  
 </div>
