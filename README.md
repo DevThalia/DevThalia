@@ -20,6 +20,9 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" width=50px>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="Html" width=50px>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" alt="Kotlin" width=50px>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" alt="Vue" width=50px>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="Php" width=50px>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width=50px>
 </div>
 
 ### Social media 🤘
