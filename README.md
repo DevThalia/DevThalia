@@ -9,8 +9,8 @@
 
 ## Stats ✨
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thalia2603&show_icons=true&theme=white&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thalia2603&theme=white&hide_border=true" width="421">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevThalia&show_icons=true&theme=white&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevThalia&theme=white&hide_border=true" width="421">
 </p>
 
 ### Developer skills :bowtie: 
